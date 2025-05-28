@@ -1,0 +1,160 @@
+[
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T17:26:57.456752"
+  },
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T17:27:04.451585"
+  },
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T17:27:56.531999"
+  },
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T17:28:11.898027"
+  },
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T17:28:14.530113"
+  },
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T17:28:42.491775"
+  },
+  {
+    "file": "ChainOfThought-Prompting Elicits Reasoning.pdf",
+    "time": "2025-05-01T17:29:23.806697"
+  },
+  {
+    "file": "ChainOfThought-Prompting Elicits Reasoning.pdf",
+    "time": "2025-05-01T17:29:36.946274"
+  },
+  {
+    "file": "ChainOfThought-Prompting Elicits Reasoning.pdf",
+    "time": "2025-05-01T17:30:21.004874"
+  },
+  {
+    "file": "ChainOfThought-Prompting Elicits Reasoning.pdf",
+    "time": "2025-05-01T17:30:48.742137"
+  },
+  {
+    "file": "ChainOfThought-Prompting Elicits Reasoning.pdf",
+    "time": "2025-05-01T17:30:51.481119"
+  },
+  {
+    "file": "ChainOfThought-Prompting Elicits Reasoning.pdf",
+    "time": "2025-05-01T17:31:25.694295"
+  },
+  {
+    "file": "STaR- Bootstrapping Reasoning With Reasoning.pdf",
+    "time": "2025-05-01T17:34:18.595247"
+  },
+  {
+    "file": "STaR- Bootstrapping Reasoning With Reasoning.pdf",
+    "time": "2025-05-01T17:34:33.355528"
+  },
+  {
+    "file": "STaR- Bootstrapping Reasoning With Reasoning.pdf",
+    "time": "2025-05-01T17:35:12.706998"
+  },
+  {
+    "file": "STaR- Bootstrapping Reasoning With Reasoning.pdf",
+    "time": "2025-05-01T17:35:52.857343"
+  },
+  {
+    "file": "ReAct.pdf",
+    "time": "2025-05-01T17:38:46.360830"
+  },
+  {
+    "file": "ReAct.pdf",
+    "time": "2025-05-01T17:38:48.797216"
+  },
+  {
+    "file": "ReAct.pdf",
+    "time": "2025-05-01T17:39:28.748584"
+  },
+  {
+    "file": "ReAct.pdf",
+    "time": "2025-05-01T17:39:41.350539"
+  },
+  {
+    "file": "ReAct.pdf",
+    "time": "2025-05-01T17:40:57.613679"
+  },
+  {
+    "file": "ReAct.pdf",
+    "time": "2025-05-01T17:40:59.854653"
+  },
+  {
+    "file": "Retrieval-AugmentedMultimodalLanguageModeling.pdf",
+    "time": "2025-05-01T17:43:35.184116"
+  },
+  {
+    "file": "Retrieval-AugmentedMultimodalLanguageModeling.pdf",
+    "time": "2025-05-01T17:43:37.385330"
+  },
+  {
+    "file": "Retrieval-AugmentedMultimodalLanguageModeling.pdf",
+    "time": "2025-05-01T17:45:54.596459"
+  },
+  {
+    "file": "Retrieval-AugmentedMultimodalLanguageModeling.pdf",
+    "time": "2025-05-01T18:02:49.545721"
+  },
+  {
+    "file": "prompt injection.pdf",
+    "time": "2025-05-01T18:09:18.085907",
+    "summary_time_sec": 20.53,
+    "word_count": 151
+  },
+  {
+    "file": "LLMsZeroShotLEarners.pdf",
+    "time": "2025-05-01T20:52:50.168377",
+    "summary_time_sec": 23.34,
+    "word_count": 131
+  },
+  {
+    "file": "apex-overview (1).pdf",
+    "time": "2025-05-28T07:26:05.393229",
+    "summary_time_sec": 30.77,
+    "word_count": 58
+  },
+  {
+    "file": "apex-overview (1).pdf",
+    "time": "2025-05-28T07:26:21.588034",
+    "summary_time_sec": 8.08,
+    "word_count": 61
+  },
+  {
+    "file": "apex-overview (1).pdf",
+    "time": "2025-05-28T07:27:37.963377",
+    "summary_time_sec": 9.23,
+    "word_count": 66
+  },
+  {
+    "file": "apex-overview (1).pdf",
+    "time": "2025-05-28T07:33:43.699486",
+    "summary_time_sec": 46.01,
+    "word_count": 313
+  },
+  {
+    "file": "RAG_Reduces_Hallucination.pdf",
+    "time": "2025-05-28T08:20:28.017216",
+    "summary_time_sec": 128.5,
+    "word_count": 257
+  },
+  {
+    "file": "prompt injection.pdf",
+    "time": "2025-05-28T12:57:37.714323",
+    "summary_time_sec": 210.0,
+    "word_count": 420
+  },
+  {
+    "file": "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.pdf",
+    "time": "2025-05-28T13:13:08.372506",
+    "summary_time_sec": 147.0,
+    "word_count": 294
+  }
+]

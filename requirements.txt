@@ -1,0 +1,16 @@
+streamlit>=1.28.0
+PyPDF2>=3.0.0
+pdf2docx>=0.5.6
+langchain>=0.1.14
+langchain-community>=0.0.24
+langchain-ollama>=0.1.0
+faiss-cpu>=1.7.4
+openai  # optional fallback
+tiktoken  # needed for some token length handling
+pymupdf
+fpdf
+
+python-pptx
+pdfplumber
+pdf2image
+Pillow
